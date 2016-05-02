@@ -23,11 +23,9 @@
 
 #content{
 	padding:20px;
-	float:left;
-	background:rgb(150,0,250);
+	text-align:left;
+	background:rgb(211,211,211);
 	color:black;
-	margin-top:7px;
-	margin-bottom:20px;
 	border-radius:5px;
 
 }

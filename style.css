@@ -1,7 +1,4 @@
-body {
-	background:slategray;
-        font-family:Calibri,sans-serif;
-}
+
 
 #container{
 	margin:10px auto;
@@ -11,8 +8,6 @@ body {
 	width:100%;
 	background:darkslateblue;
 	padding:5px 0;
-	border-top-right-radius:25px;
-	border-top-left-radius:25px;
 	color:white;
 	text-align:center;
 }
@@ -31,9 +26,8 @@ body {
 	color:black;
 	margin-top:7px;
 	margin-bottom:20px;
-	box-shadow:-10px 10px 5px #000;
-	border-bottom-left-radius:25px;
-	border-bottom-right-radius:25px;
+	border-radius:5px;
+
 }
 
 #content img {
@@ -59,7 +53,6 @@ body {
 
 #sidebar {
 	float:right;
-	clear:right;
 	background:darkslateblue;
 	color:white;
 	margin-top:7px;

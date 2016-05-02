@@ -5,11 +5,14 @@
 }
 
 #header {
-	width:100%;
-	background:darkslateblue;
 	padding:5px 0;
 	color:white;
 	text-align:center;
+	background-color:(210,210,210);
+	margin:10px;
+	height:90px;
+	border-radius:5px;
+	font-size:200%;
 }
 
 #header h1 {

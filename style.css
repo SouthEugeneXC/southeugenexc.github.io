@@ -4,7 +4,6 @@ body {
 }
 
 #container{
-	width:690px;
 	margin:10px auto;
 }
 
@@ -28,7 +27,6 @@ body {
 	clear:left;
 	padding:20px;
 	float:left;
-	width:489px;
 	background:white;
 	color:black;
 	margin-top:7px;

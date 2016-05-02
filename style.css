@@ -19,10 +19,9 @@
 
 
 #content{
-	clear:left;
 	padding:20px;
 	float:left;
-	background:white;
+	background:rgb(150,0,250);
 	color:black;
 	margin-top:7px;
 	margin-bottom:20px;
@@ -58,4 +57,13 @@
 	margin-top:7px;
 	padding:0 25px 16px 19px;
 }
-
+			<div id="sidebar">
+				
+				<h4>August 22nd-26th</h4>
+				<h4>9:00-12:00</h4>
+				<h4>Grades: 1-8</h4>
+				<h4>$55 per camper</h4>
+				Family rate:<br>$45 per camper<br>
+				
+				
+			</div>

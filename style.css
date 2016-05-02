@@ -53,10 +53,10 @@
 
 #sidebar {
 	float:right;
+	width:200px;
 	background:darkslateblue;
 	color:white;
 	margin-top:7px;
-	padding:0 25px 16px 19px;h4{
-        font-weight:normal;
+	padding:0 25px 16px 19px;
 }
 

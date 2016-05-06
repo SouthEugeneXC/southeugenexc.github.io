@@ -14,7 +14,9 @@
 	margin-left:10px;;
 }
 
-body{
+body{	background-image:DSC_0171.JPG; 
+	background-repeat:no-repeat;
+	background attachment:fixed;
 	font-size:14px;
 }
 p{
@@ -45,7 +47,6 @@ div{
 .content{
 	padding:20px;
 	text-align:middle;
-	background-image:DSC_0171.JPG; 
 	color:black;
 	border-radius:5px;
 	margin:10px;

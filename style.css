@@ -14,9 +14,10 @@
 	margin-left:10px;;
 }
 
-body{	background-image:DSC_0171.JPG; 
+body{	background-image:DSC_0171.JPG;
 	background-repeat:no-repeat;
-	background attatchment:fixed;
+	background-attachment:fixed;
+	width:100%;
 	font-size:14px;
 }
 p{

@@ -15,7 +15,6 @@
 }
 
 body{
-	background-image:DSC_0171.JPG;
 	font-size:14px;
 }
 p{
@@ -46,7 +45,7 @@ div{
 .content{
 	padding:20px;
 	text-align:middle;
-	background:rgb(211,211,211);
+	background-image:DSC_0171.JPG; 
 	color:black;
 	border-radius:5px;
 	margin:10px;

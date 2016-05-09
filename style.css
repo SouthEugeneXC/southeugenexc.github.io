@@ -1,58 +1,67 @@
 
-<style>
 
 #container{
 	margin:10px auto;
 }
 
+#header {
+	padding:5px 0;
+	color:white;
+	text-align:center;
+	background-color:(210,210,210);
+	margin:10px;
+	height:90px;
+	border-radius:5px;
+	font-size:200%;
+}
+
+#header h1 {
+        font-weight:normal;
+        font-size:30px;
+}
+
+
+#content{
+	padding:20px;
+	text-align:left;
+	background:rgb(211,211,211);
+	color:black;
+	border-radius:5px;
+	margin:10px;
+	border-radius:5px;
+	font-size:100%;
+
+
+}
+
+#content img {
+	width:489px;
+	height:auto;
+	margin-bottom:20px;
+	background-color:rgb(150,0,250);
+}
+
+
+}
+
 .register{
 	background:darkslateblue;
 	color:white;
-	font-size:30px;
+	font-size:16px;
 	text-decoration:none;
 	text-transform:uppercase;
-	padding:10px 19px;
-	margin-left:10px;;
-
-body{	background-color:purple;
- 	font-size:14px;
-}
-p{
- 	font-family:'Raleway', sans-serif;
- 	font-size:100%;
-}
-div{
-	font-family:'Raleway', sans-serif;
-	font-size:100%;
+	padding:10px 25px;
+	margin-left:10px;
 }
 
-#header {
-	padding:10px 
+#sidebar {
+	float:right;
+	background:darkslateblue;
 	color:white;
-	text-align:center;
-	background-color:rgb(150,0,250);
-	height:90px;
-	border-radius:0px;
-	font-size:200%;
-      
-#sidebar{
-	background-color:(210,210,210);
 	margin:10px;
-	width:100px;
+	float:right;
+	width:200px;
 	border-radius:5px;
 	padding:20px;
-}
- .content{
-	padding:20px;
- 	text-align:middle;
- 	color:black;
- 	border-radius:5px;
- 	margin:10px;
- 	border-radius:5px;
- 	font-size:100%;
- 	width:950px;
- 	border-style:solid;
- 	border-width:3px;
- 	border-color:purple;
+	
 
-</style>

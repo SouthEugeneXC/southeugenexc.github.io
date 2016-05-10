@@ -1,4 +1,4 @@
-
+<link href='https://fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
 
 #container{
 	margin:10px auto;
@@ -13,6 +13,7 @@
 	height:90px;
 	border-radius:5px;
 	font-size:300%;
+	font-family:'raleway', serif;
 }
 
 #header h1 {
@@ -30,6 +31,7 @@
 	margin:10px;
 	border-radius:5px;
 	font-size:100%;
+	font-family:'raleway', serif;
 
 
 }
@@ -39,6 +41,7 @@
 	height:auto;
 	margin-bottom:20px;
 	background-color:rgb(150,0,250);
+	font-family:'raleway', serif;
 }
 
 
@@ -52,6 +55,7 @@
 	text-transform:uppercase;
 	padding:10px 25px;
 	margin-left:10px;
+	font-family:'raleway', serif;
 }
 
 #sidebar {
@@ -63,5 +67,6 @@
 	width:200px;
 	border-radius:5px;
 	padding:20px;
+	font-family:'raleway', serif;
 	
 
